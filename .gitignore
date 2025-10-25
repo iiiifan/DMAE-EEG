@@ -1,0 +1,7 @@
+*.ckpt 
+*.ckpt 
+*.pyc 
+__pycache__/ 
+ckpt/ 
+ckpt/pretrained 
+ckpt/pretrained 
